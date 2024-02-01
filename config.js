@@ -10,16 +10,16 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = truee;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["94702699677"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["94702699677"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["94702699677"];
+global.Owner = ["94722477361"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94722477361"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94722477361"];
 global.OwnerName = "ᴋᴀɴɪꜱʜᴋᴀ_x";
 global.BotName = "Qᴜᴇᴇɴ ᴛʜᴀʀᴜ";
 global.packname = "X-2.0 Bot";                             //Do not change.
